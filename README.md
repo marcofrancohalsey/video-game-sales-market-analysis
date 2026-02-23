@@ -16,7 +16,7 @@ Global revenue per title computed as total_sales.
 - Standardize and clean raw data  
 - Remove logical duplicates  
 - Normalize categorical variables  
-- Engineer global revenue feature  
+- Compute global revenue per title  
 - Analyze release trends over time  
 - Estimate platform lifecycle  
 - Evaluate revenue concentration by platform  
